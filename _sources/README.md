@@ -4,15 +4,15 @@ Este es un libro de código abierto basado en Jupyter sobre cómo iniciarse en l
 ---
 ## Contenido
 
-* [Capítulo 1: Transformada de Laplace](https://elc.github.io/link/control_01)
-* [Capítulo 2: Función de Transferencia](https://elc.github.io/link/control_02)
-* [Capítulo 3: Sistemas de Primer Orden](https://elc.github.io/link/control_03)
-* [Capítulo 4: Sistemas de Segundo Orden](https://elc.github.io/link/control_04)
-* [Capítulo 5: Root Locus](https://elc.github.io/link/control_05)
-* [Capítulo 6: Controladores](https://elc.github.io/link/control_06)
-* [Capítulo 7: Sintonización](https://elc.github.io/link/control_07)
-* [Capítulo 8: Bode](https://elc.github.io/link/control_08)
-* [Capítulo 9: Nyquist](https://elc.github.io/link/control_09)
+* [Capítulo 1: Transformada de Laplace](https://elc.github.io/control-theory-with-matlab/chapters/ELC01_Transformada_de_Laplace.html)
+* [Capítulo 2: Función de Transferencia](https://elc.github.io/control-theory-with-matlab/chapters/ELC02_Funcion_de_transferencia.html)
+* [Capítulo 3: Sistemas de Primer Orden](https://elc.github.io/control-theory-with-matlab/chapters/ELC03_Sistemas_Primer_Orden.html)
+* [Capítulo 4: Sistemas de Segundo Orden](https://elc.github.io/control-theory-with-matlab/chapters/ELC04_Sistemas_Segundo_Orden.html)
+* [Capítulo 5: Root Locus](https://elc.github.io/control-theory-with-matlab/chapters/ELC05_Root_Locus.html)
+* [Capítulo 6: Controladores](https://elc.github.io/control-theory-with-matlab/chapters/ELC06_Controladores.html)
+* [Capítulo 7: Sintonización](https://elc.github.io/control-theory-with-matlab/chapters/ELC07_Sintonizaci%C3%B3n.html)
+* [Capítulo 8: Bode](https://elc.github.io/control-theory-with-matlab/chapters/ELC08_Bode.html)
+* [Capítulo 9: Nyquist](https://elc.github.io/control-theory-with-matlab/chapters/ELC09_Nyquist.html)
 
 Los siguientes son temas que no están cubiertos en ninguno de los capítulos:
 
